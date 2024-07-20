@@ -50,18 +50,14 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 ---
 
 ### 🧑‍💻 Coding Profiles
-- **LeetCode**: Solved more than 600 questions with C++ and participated in more than 30 contests. Peak rating: 1618.  
-  [LeetCode Profile](https://leetcode.com/Aadarsh_001/)
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Aadarsh_001/): Solved more than 600 questions with C++ and participated in more than 30 contests. Peak rating: 1618.
 
-- **CodeChef**: Participated in about 10 contests with a rating of 1234.  
-  [CodeChef Profile](https://www.codechef.com/users/aadarsh_01/)
+- [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aadarsh_01/): Participated in about 10 contests with a rating of 1234.
 
-- **GeeksforGeeks**: Solved more than 250 questions with C++ and enrolled in the Android development course.  
-  [GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/aadarshchaurasia45/)
+- [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aadarshchaurasia45/): Solved more than 250 questions with C++ and enrolled in the Android development course.
+
 
 ---
 
-### 📫 Connect with Me
-- **LinkedIn**: [Aadarsh Chaurasia](https://www.linkedin.com/in/aadarsh-chaurasia-876588231)
-- **Email**: [aadarshchaurasia45@gmail.com](mailto:aadarshchaurasia45@gmail.com)
+
 
