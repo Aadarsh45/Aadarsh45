@@ -58,7 +58,6 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aadarshchaurasia45/): Solved more than 250 questions with C++ and enrolled in the Android development course.
 
 
----
 
 
 
