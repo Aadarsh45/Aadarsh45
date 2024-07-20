@@ -2,6 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Aadarsh45&color=brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-chaurasia-876588231)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aadarshchaurasia45@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2c3d4e5f6a7b8c9d0)
 
 ### 🚀 About Me
 I am a passionate Computer Science student currently pursuing my B.Tech at JSS Academy of Technical Education, NOIDA. I am deeply interested in software development, particularly Android development, and have hands-on experience with Kotlin, C++, and Python. I enjoy solving complex problems and participating in coding competitions.
