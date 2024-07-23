@@ -43,9 +43,9 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 - Developed a news app with optimized loading times for a smooth user experience.
 - Utilized Retrofit for data serialization, increasing data processing speed and ensuring seamless data integration.
 
-#### [InstaDemo](https://github.com/Aadarsh45/InstaDemo)
+#### [Connect](https://github.com/Aadarsh45/Connect)
 - **Technologies**: Kotlin, XML, Android Development, Firebase
-- Created a social media app with features like user authentication, file storage, and notifications.
+- Created a social media app with features like user authentication, file storage.
 - Implemented MVVM architecture, increasing code maintainability and streamlining development processes.
 
 ---
