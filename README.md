@@ -36,10 +36,11 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 
 
 ### 💼Top 3 Projects
-#### [TaskTrek](https://github.com/Aadarsh45/TaskTrek)
-- **Technologies**: Kotlin, Room Database, Coroutines
-- Boosted user productivity by implementing a user-friendly task management interface.
-- Leveraged Kotlin coroutines for background task management, significantly improving app performance and responsiveness.
+#### [NIRBHAYA](https://github.com/Aadarsh45/Nirbhaya)  
+- **Technologies**: Kotlin, XML, Google Maps API, Firebase Authentication, Coroutines  
+- Developed a family safety app enabling real-time location sharing, tracking, and SOS alerts to ensure user security.  
+- Integrated Google Maps API for accurate live location tracking and Firebase for secure authentication and real-time updates.  
+- Leveraged Kotlin Coroutines for seamless background operations, enhancing app responsiveness and user experience.
 
 #### [NewsApp](https://github.com/Aadarsh45/NewsApp)
 - **Technologies**: Kotlin, XML, Android Development
@@ -54,9 +55,9 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 ---
 
 ### 🧑‍💻 Coding Profiles
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Aadarsh_001/): Solved more than 600 questions with C++ and participated in more than 30 contests. Peak rating: 1618.
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Aadarsh_001/): Solved more than 600 questions with C++ and participated in more than 30 contests. Peak rating: 1709.
 
-- [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aadarsh_01/): Participated in about 10 contests with a rating of 1234.
+- [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aadarsh_01/): Participated in about 10 contests with a rating of 1400+.
 
 - [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/aadarshchaurasia45/): Solved more than 250 questions with C++ and enrolled in the Android development course.
 
