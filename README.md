@@ -55,7 +55,7 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 ---
 
 ### 🧑‍💻 Coding Profiles
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Aadarsh_001/): Solved more than 600 questions with C++ and participated in more than 30 contests. Peak rating: 1709.
+- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/Aadarsh_001/): Solved more than 800 questions with C++ and participated in more than 30 contests. Peak rating: 1709.
 
 - [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/aadarsh_01/): Participated in about 10 contests with a rating of 1400+.
 
