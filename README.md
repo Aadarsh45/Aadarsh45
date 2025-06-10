@@ -7,8 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aadarsh45&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🚀 About Me
-I am a passionate Computer Science student currently pursuing my B.Tech at JSS Academy of Technical Education, NOIDA. I am deeply interested in software development, particularly Android development, and have hands-on experience with Kotlin, C++, and Python. I enjoy solving complex problems and participating in coding competitions.
+### 🚀 About Me: 
+I am deeply interested in software development, particularly Android development, and have hands-on experience with Kotlin, C++, and Python. I enjoy solving complex problems and participating in coding competitions.
 
 - 🌱 I’m currently learning **Advanced Android Development and Kotlin**
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
@@ -25,7 +25,7 @@ I am a passionate Computer Science student currently pursuing my B.Tech at JSS A
 ### 🛠️ Tools & Technologies
 ![Tools](https://skillicons.dev/icons?i=kotlin,cpp,c,py,androidstudio,git,github,gradle,vscode,windows,firebase,git,github,idea)
 
-- **Languages**: C++, Kotlin, Python, Java, XML
+- **Languages**: C++, Kotlin, XML, compose
 - **Development Tools**: Android Studio, IntelliJ IDEA, Visual Studio Code, Git, Gradle
 - **Software Development**: Object-Oriented Programming, Data Structures, Algorithms, Agile Methodologies
 - **Android Development**: Android SDK, Firebase, APIs, Retrofit, MVVM
