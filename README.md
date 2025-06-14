@@ -42,10 +42,10 @@ I am deeply interested in software development, particularly Android development
 - Integrated Google Maps API for accurate live location tracking and Firebase for secure authentication and real-time updates.  
 - Leveraged Kotlin Coroutines for seamless background operations, enhancing app responsiveness and user experience.
 
-#### [NewsApp](https://github.com/Aadarsh45/NewsApp)
-- **Technologies**: Kotlin, XML, Android Development
-- Developed a news app with optimized loading times for a smooth user experience.
-- Utilized Retrofit for data serialization, increasing data processing speed and ensuring seamless data integration.
+#### [FlavorGo](https://github.com/Aadarsh45/FlavorGo)
+- **Technologies**: Kotlin, XML, Android Development,MVVM
+-FlavorGo is an Android application designed to enhance the way users discover and enjoy food.
+-It combines real-time food recognition, intelligent recommendations, and seamless restaurant interaction, offering a smart dining companion right in your pocket.
 
 #### [LinkUp](https://github.com/Aadarsh45/LinkUp)
 - **Technologies**: Kotlin, XML, Android Development, Firebase
