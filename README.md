@@ -45,7 +45,7 @@ I am deeply interested in software development, particularly Android development
 #### [FlavorGo](https://github.com/Aadarsh45/FlavorGo)
 - **Technologies**: Kotlin, XML, Android Development,MVVM
 - FlavorGo is an Android application designed to enhance the way users discover and enjoy food.
-- It combines real-time food recognition, intelligent recommendations, and seamless restaurant interaction,offering a smart dining companion right in your pocket.
+- It combines real-time food recognition, and seamless restaurant interaction,offering a smart dining companion right in your pocket.
 
 #### [LinkUp](https://github.com/Aadarsh45/LinkUp)
 - **Technologies**: Kotlin, XML, Android Development, Firebase
