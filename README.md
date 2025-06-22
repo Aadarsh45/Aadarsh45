@@ -20,6 +20,8 @@
 - 🌱 Learning: Clean Architecture, Compose, Advanced Kotlin  
 - 🤝 Open to: Freelance projects, collaborations, and open source  
 - ⚡ Fun Fact: I debug faster when there's Tea ☕ involved
+- 📄 Android Dev docs:- [here](https://docs.google.com/document/d/1leqB3YfNc8atV5p6F3w8CH4FyQ8mPmADOtkeeeWZsMg/edit?usp=sharing).
+
 
 ---
 
