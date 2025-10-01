@@ -67,7 +67,7 @@
 
 ---
 
-🔗 Khabar — News App
+🔗 (https://github.com/Aadarsh45/Khabar-) — News App
 
 📰 Pagination | ⚡ Real-time Updates | 🎨 Jetpack Compose
 
