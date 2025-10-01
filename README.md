@@ -67,6 +67,12 @@
 
 ---
 
+🔗 Khabar — News App
+
+📰 Pagination | ⚡ Real-time Updates | 🎨 Jetpack Compose
+
+Built with Kotlin, Clean Architecture, and Retrofit API, delivering a smooth reading experience with modern UI and infinite scroll.
+
 ### 📊 GitHub Stats
 
 <div align="center">
